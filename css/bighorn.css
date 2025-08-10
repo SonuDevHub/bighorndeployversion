@@ -12457,29 +12457,27 @@ input[type="number"] {
 }
 
 .main-footer--two .footer-widget__links li+li {
-  margin-top: 5px;
+  margin-top: 22px;
 }
 
 .main-footer--two .footer-widget__links i {
-  margin-right: 2px;
+  margin-right: 12px;
   font-size: 6px;
   color: var(--bighorn-base);
 }
 
 .main-footer--two .footer-widget--about {
   margin-right: -30px;
- 
+}
 
 @media (max-width: 1199px) {
   .main-footer--two .footer-widget--about {
     margin-right: 0;
-    
   }
 }
 
 .main-footer--two .footer-widget--links {
   margin-left: 100px;
- 
 }
 
 @media (max-width: 1199px) {
